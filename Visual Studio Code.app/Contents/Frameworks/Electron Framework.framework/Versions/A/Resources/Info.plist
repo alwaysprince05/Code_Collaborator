@@ -11,17 +11,17 @@
     <key>CFBundlePackageType</key>
     <string>FMWK</string>
     <key>CFBundleVersion</key>
-    <string>32.2.1</string>
+    <string>35.6.0</string>
     <key>DTCompiler</key>
     <string>com.apple.compilers.llvm.clang.1_0</string>
     <key>DTSDKBuild</key>
-    <string>23F73</string>
+    <string>24F74</string>
     <key>DTSDKName</key>
-    <string>macosx14.5</string>
+    <string>macosx15.5</string>
     <key>DTXcode</key>
-    <string>1540</string>
+    <string>1640</string>
     <key>DTXcodeBuild</key>
-    <string>15F31d</string>
+    <string>16F6</string>
     <key>LSEnvironment</key>
     <dict>
       <key>MallocNanoZone</key>
@@ -36,7 +36,7 @@
         <key>algorithm</key>
         <string>SHA256</string>
         <key>hash</key>
-        <string>43fc987cdf0de7d6d0c71df4f5e61953e7aefe5532ecb22e20ff2cf948ddd590</string>
+        <string>4ef9d2d26e1712a1b92e4bdef0a5ae0f5e639ac88262fdb5a9a9d454380ab455</string>
       </dict>
     </dict>
   </dict>
